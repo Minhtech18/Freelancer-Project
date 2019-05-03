@@ -1,0 +1,586 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+QuanLySanXuat
+</name>
+</assembly>
+<members>
+<member name="T:QuanLySanXuat.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:QuanLySanXuat.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:QuanLySanXuat.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:QuanLySanXuat.My.Resources.Resources._627249_delete3_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QuanLySanXuat.My.Resources.Resources.bg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QuanLySanXuat.My.Resources.Resources.bg1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QuanLySanXuat.My.Resources.Resources.bg2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QuanLySanXuat.My.Resources.Resources.bg3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QuanLySanXuat.My.Resources.Resources.del">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QuanLySanXuat.My.Resources.Resources.Detail">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QuanLySanXuat.My.Resources.Resources.DetailView">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QuanLySanXuat.My.Resources.Resources.ExportExcel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QuanLySanXuat.My.Resources.Resources.pen_paper_2_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QuanLySanXuat.My.Resources.Resources.pen_paper_2_5121">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet1.tblusersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet1.tblfishDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet1.tbljobDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet1.tblsourcefishDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet1.tblemployeeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet1.tblemployee1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet1.tblusersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet1.tblfishRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet1.tbljobRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet1.tblsourcefishRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet1.tblemployeeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet1.tblemployee1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet1.tblusersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet1.tblfishRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet1.tbljobRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet1.tblsourcefishRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet1.tblemployeeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet1.tblemployee1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet1TableAdapters.tblusersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet1TableAdapters.tblfishTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet1TableAdapters.tbljobTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet1TableAdapters.tblsourcefishTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet1TableAdapters.tblemployeeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet1TableAdapters.tblemployee1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:QuanLySanXuat.DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(QuanLySanXuat.DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:QuanLySanXuat.DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(QuanLySanXuat.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:QuanLySanXuat.DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(QuanLySanXuat.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:QuanLySanXuat.DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:QuanLySanXuat.DataSet1TableAdapters.TableAdapterManager.UpdateAll(QuanLySanXuat.DataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet2.tbljobratesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet2.tbljobratesAllDataDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet2.tblmarinatedfishDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet2.tbljobratesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet2.tbljobratesAllDataRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet2.tblmarinatedfishRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet2.tbljobratesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet2.tbljobratesAllDataRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet2.tblmarinatedfishRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet2TableAdapters.tbljobratesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet2TableAdapters.tbljobratesAllDataTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet2TableAdapters.tblmarinatedfishTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet3">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet3.DataTable1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet3.tbllogworkDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet3.DataTable1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet3.tbllogworkRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet3.DataTable1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet3.tbllogworkRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet3TableAdapters.DataTable1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet3TableAdapters.tbllogworkTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet3TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:QuanLySanXuat.DataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(QuanLySanXuat.DataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:QuanLySanXuat.DataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(QuanLySanXuat.DataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:QuanLySanXuat.DataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(QuanLySanXuat.DataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:QuanLySanXuat.DataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:QuanLySanXuat.DataSet3TableAdapters.TableAdapterManager.UpdateAll(QuanLySanXuat.DataSet3)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet4">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet4.tblLogWorkAllDataDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet4.tblemployeeleaveDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet4.tblLogWorkAllDataRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet4.tblemployeeleaveRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet4.tblLogWorkAllDataRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet4.tblemployeeleaveRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet4TableAdapters.tblLogWorkAllDataTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet4TableAdapters.tblemployeeleaveTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet4TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:QuanLySanXuat.DataSet4TableAdapters.TableAdapterManager.UpdateUpdatedRows(QuanLySanXuat.DataSet4,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:QuanLySanXuat.DataSet4TableAdapters.TableAdapterManager.UpdateInsertedRows(QuanLySanXuat.DataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:QuanLySanXuat.DataSet4TableAdapters.TableAdapterManager.UpdateDeletedRows(QuanLySanXuat.DataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:QuanLySanXuat.DataSet4TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:QuanLySanXuat.DataSet4TableAdapters.TableAdapterManager.UpdateAll(QuanLySanXuat.DataSet4)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet4TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet4TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet5">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet5.tblemployeeLeavesAllDataDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet5.tblfishpartitionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet5.DataTable1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet5.tblemployeeLeavesAllDataRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet5.tblfishpartitionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet5.DataTable1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet5.tblemployeeLeavesAllDataRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet5.tblfishpartitionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet5.DataTable1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet5TableAdapters.tblemployeeLeavesAlldataDataAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet5TableAdapters.tblfishpartitionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet5TableAdapters.DataTable1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet5TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:QuanLySanXuat.DataSet5TableAdapters.TableAdapterManager.UpdateUpdatedRows(QuanLySanXuat.DataSet5,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:QuanLySanXuat.DataSet5TableAdapters.TableAdapterManager.UpdateInsertedRows(QuanLySanXuat.DataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:QuanLySanXuat.DataSet5TableAdapters.TableAdapterManager.UpdateDeletedRows(QuanLySanXuat.DataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:QuanLySanXuat.DataSet5TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:QuanLySanXuat.DataSet5TableAdapters.TableAdapterManager.UpdateAll(QuanLySanXuat.DataSet5)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet5TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:QuanLySanXuat.DataSet5TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
